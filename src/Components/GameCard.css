@@ -1,0 +1,4 @@
+.card__img {
+  height: 260px;
+  object-fit: contain;
+}

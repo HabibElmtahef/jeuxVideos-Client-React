@@ -1,0 +1,8 @@
+.slider {
+  padding: 0px 20px 0 40px;
+}
+
+.slider__img {
+  height: 200px;
+  object-fit: contain;
+}
